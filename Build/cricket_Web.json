@@ -1,0 +1,15 @@
+{
+"companyName": "Tech Priyam",
+"productName": "Cricket Superstar",
+"productVersion": "1.0.0",
+"dataUrl": "cricket_Web.data.unityweb",
+"wasmCodeUrl": "cricket_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "cricket_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0b4"
+}
